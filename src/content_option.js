@@ -21,16 +21,17 @@ const meta = {
 const introdata = {
     title: "My name is Danny Mak",
     animated: {
-        first: "I love learning new tech",
-        second: "I make cool applications"
+        first: "Tech Nerd",
+        second: "Rock Climber",
+        third: "Foodie"
     },
-    description: "I am full stack developer versed in the MERN stack.",
+    description: "I am a full stack developer based out of Dallas, Texas. I'm passionate about the bleeding edge of technology and incorporating them into my applications. I specialize in the MERN stack.",
     your_img_url: myImage,
 };
 
 const dataabout = {
-    title: "About Me",
-    aboutme: "I'm Danny Mak, a former pre-medical student turned developer. I hold a bachelor of science degree in biology and a master's degree in bioscience, but my most recent passion has been in software development! I love learning how things work and using my imagination to develop and improve apps that I myself would use. In my free time, I enjoy traveling around the world and discovering new types of food. I also love the sport of rock climbing. Join me on my journey through the life of a software engineer.",
+    title: "Heres a bit more about me...",
+    aboutme: "I'm Danny Mak, a former pre-medical student turned developer. I hold a bachelor of science degree in Biology from University of Texas at Dallas and a master's degree in Bioscience from Kansas City University, but my most recent passion has been in software development! I love learning how things work and using my imagination to develop and improve apps that I myself would use. In my free time, I enjoy traveling around the world and discovering new types of food. I also love the sport of rock climbing. Join me on my journey through the life of a software engineer.",
 };
 
 const skillsData = {
@@ -122,12 +123,13 @@ const contactConfig = {
     description: "If you have any questions or concerns please don't hesitate to reach out!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_mus1xis",
+    YOUR_TEMPLATE_ID: "template_v39b6qq",
+    YOUR_USER_ID: "fgmq5RHYsPCddraQY",
 };
 
 const socialprofils = {
+    instagram: "https://www.instagram.com/dannyrocksit/",
     github: "https://github.com/Dannymak1993",
     facebook: "https://www.facebook.com/DannyMak1993",
     linkedin: "https://www.linkedin.com/in/danny-mak-53b6b9102/"
