@@ -9,6 +9,9 @@ import reactIcon from './images/skills/react.png';
 import nodejsIcon from './images/skills/nodejs.png';
 import gitIcon from './images/skills/git.png';
 import firebaseIcon from './images/skills/firebase.png';
+import groovehub from './images/projects/Groovehub.png';
+import plannedperf from './images/projects/Planned-Perfection.png';
+import weatherapp from './images/projects/Weather-App.png';
 
 const logotext = "Danny Mak";
 const meta = {
@@ -40,32 +43,26 @@ const skillsData = {
                 {
                     icon: jsIcon,
                     title: "JavaScript",
-                    className: "small-icon" // Add a custom class for small icons
                 },
                 {
                     icon: htmlIcon,
                     title: "HTML 5",
-                    className: "small-icon" // Add a custom class for small icons
                 },
                 {
                     icon: cssIcon,
                     title: "CSS",
-                    className: "small-icon" // Add a custom class for small icons
                 },
                 {
                     icon: mongoDBIcon,
                     title: "Mongo DB",
-                    className: "small-icon" // Add a custom class for small icons
                 },
                 {
                     icon: graphQLIcon,
                     title: "GraphQL",
-                    className: "small-icon" // Add a custom class for small icons
                 },
                 {
                     icon: mySQLIcon,
                     title: "MySQL",
-                    className: "small-icon" // Add a custom class for small icons
                 },
             ],
         },
@@ -75,12 +72,10 @@ const skillsData = {
                 {
                     icon: reactIcon,
                     title: "React",
-                    className: "small-icon" // Add a custom class for small icons
                 },
                 {
                     icon: nodejsIcon,
                     title: "Nodejs",
-                    className: "small-icon" // Add a custom class for small icons
                 },
             ],
         },
@@ -90,12 +85,10 @@ const skillsData = {
                 {
                     icon: gitIcon,
                     title: "Git",
-                    className: "small-icon" // Add a custom class for small icons
                 },
                 {
                     icon: firebaseIcon,
                     title: "Firebase",
-                    className: "small-icon" // Add a custom class for small icons
                 },
             ],
         },
@@ -104,65 +97,22 @@ const skillsData = {
 
 
 const dataportfolio = [{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: groovehub,
+    description: "Music application allowing users to listen to music genres while chatting with others",
+    link: "https://groovehub-2023.herokuapp.com/",
+    tags: ["Handlebars", "JavaScript", "Google Firebase"]
 },
 {
-    img: "https://picsum.photos/400/800/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: plannedperf,
+    description: "Date planner application that allows the user to generate an itinerary using entered parameters",
+    link: "https://date-itinerary.herokuapp.com/",
+    tags: ["Javascript", "Foundation CSS", "APIs"]
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/600/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/300/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-
-{
-    img: "https://picsum.photos/400/600/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/300/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/550/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: weatherapp,
+    description: "Simple weather app to help research current and future weather forecasts for any location",
+    link: "https://dannymak1993.github.io/Whats-the-weather-like-in-BLANK/",
+    tags: ["Javascript", "CSS", "APIs"]
 },
 ];
 

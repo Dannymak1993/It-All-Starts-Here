@@ -26,7 +26,16 @@ export const Portfolio = () => {
                 <img src={data.img} alt="" />
                 <div className="content">
                   <p>{data.description}</p>
-                  <a href={data.link}>view project</a>
+                  <a
+                    href={data.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >view project</a>
+                  <div className="tags">
+                    {data.tags.map((tag, j) => (
+                      <span key={j} className="tag">{tag}</span>
+                    ))}
+                  </div>
                 </div>
               </div>
             );

@@ -47,6 +47,17 @@ const Headermain = () => {
                     <Link  onClick={handleToggle} to="/portfolio" className="my-3"> Portfolio</Link>
                   </li>
                   <li className="menu_item">
+                    <a
+                      onClick={handleToggle}
+                      href="https://docs.google.com/document/d/1tJ3oz2rqRWUC-uRGkmkKvBm4LiiL09v1bx6DNRc-gfg/edit?usp=sharing"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="my-3"
+                    >
+                      Resume
+                    </a>
+                  </li>
+                  <li className="menu_item">
                   <Link onClick={handleToggle} to="/contact" className="my-3"> Contact</Link>
                   </li>
                 </ul>
