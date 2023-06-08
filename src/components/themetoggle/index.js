@@ -3,7 +3,7 @@ import { WiMoonAltWaningCrescent4 } from "react-icons/wi";
 
 
 const Themetoggle = () => {
-  const colors = ["#000000", "#529f9d", "#e23737", "#8ae237", "#59c2e6", "#e0b51b", "#cd3ad5", "#6c5232df"];
+  const colors = ["#000000", "#647b7b", "#835353", "#849475", "#95b9c5", "#c0af73", "#b5a1bf", "#6c5232df"];
   const [currentColorIndex, setCurrentColorIndex] = useState(
     parseInt(localStorage.getItem("currentColorIndex")) || 0
   );
