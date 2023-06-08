@@ -132,7 +132,7 @@ const socialprofils = {
     instagram: "https://www.instagram.com/dannyrocksit/",
     github: "https://github.com/Dannymak1993",
     facebook: "https://www.facebook.com/DannyMak1993",
-    linkedin: "https://www.linkedin.com/in/danny-mak-53b6b9102/"
+    linkedin: "https://www.linkedin.com/in/danny-mak/"
 };
 export {
     meta,
