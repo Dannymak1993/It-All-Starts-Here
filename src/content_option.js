@@ -30,7 +30,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "Heres a bit more about me...",
+    title: "Here's a bit more about me...",
     aboutme: "I'm Danny Mak, a former pre-medical student turned developer. I hold a bachelor of science degree in Biology from University of Texas at Dallas and a master's degree in Bioscience from Kansas City University, but my most recent passion has been in software development! I love learning how things work and using my imagination to develop and improve apps that I myself would use. In my free time, I enjoy traveling around the world and discovering new types of food. I also love the sport of rock climbing. Join me on my journey through the life of a software engineer.",
 };
 

@@ -20,7 +20,7 @@ export const Skills = () => {
                 </Row>
                 <Row className="sec_sp">
                     <Col lg="12">
-                        <h2>{skillsData.intro}</h2>
+                        <h2 className="skilldescrip">{skillsData.intro}</h2>
                     </Col>
                 </Row>
                 {skillsData.skills.map((skillGroup, index) => (
