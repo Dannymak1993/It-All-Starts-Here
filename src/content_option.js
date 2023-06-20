@@ -9,6 +9,7 @@ import reactIcon from './images/skills/react.png';
 import nodejsIcon from './images/skills/nodejs.png';
 import gitIcon from './images/skills/git.png';
 import firebaseIcon from './images/skills/firebase.png';
+import groovehubremixed from './images/projects/Groovehub-Remixed.png';
 import groovehub from './images/projects/Groovehub.png';
 import plannedperf from './images/projects/Planned-Perfection.png';
 import weatherapp from './images/projects/Weather-App.png';
@@ -97,7 +98,14 @@ const skillsData = {
 };
 
 
-const dataportfolio = [{
+const dataportfolio = [
+{
+    img: groovehubremixed,
+    description: "revamped music application that adds features including but not limited to: importing in playlists from spotify, community channel to share your playlists",
+    link: "https://groovehub-remixed-2f12da1632a2.herokuapp.com/",
+    tags: ["React", "GraphQL/Apollo", "Spotify API", "Google Firebase", "MongoDB/Mongoose", "React-Foundation/Material UI"]
+},
+{
     img: groovehub,
     description: "Music application allowing users to listen to music genres while chatting with others",
     link: "https://groovehub-2023.herokuapp.com/",

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/It-All-Starts-Here/static/css/main.602ead5f.css",
-    "main.js": "/It-All-Starts-Here/static/js/main.c85e8230.js",
+    "main.css": "/It-All-Starts-Here/static/css/main.c415febb.css",
+    "main.js": "/It-All-Starts-Here/static/js/main.2a6d6dd3.js",
     "static/media/Planned-Perfection.png": "/It-All-Starts-Here/static/media/Planned-Perfection.552d54488e5788cebcec.png",
     "static/media/Groovehub.png": "/It-All-Starts-Here/static/media/Groovehub.43cab0c3f54f32e26923.png",
     "static/media/Danny.png": "/It-All-Starts-Here/static/media/Danny.85fe4a599efb22ae4e32.png",
@@ -12,11 +12,11 @@
     "static/media/js.png": "/It-All-Starts-Here/static/media/js.266bd9fb2663dcc057b4.png",
     "static/media/mysql.png": "/It-All-Starts-Here/static/media/mysql.17ec01314179e9a8ab58.png",
     "index.html": "/It-All-Starts-Here/index.html",
-    "main.602ead5f.css.map": "/It-All-Starts-Here/static/css/main.602ead5f.css.map",
-    "main.c85e8230.js.map": "/It-All-Starts-Here/static/js/main.c85e8230.js.map"
+    "main.c415febb.css.map": "/It-All-Starts-Here/static/css/main.c415febb.css.map",
+    "main.2a6d6dd3.js.map": "/It-All-Starts-Here/static/js/main.2a6d6dd3.js.map"
   },
   "entrypoints": [
-    "static/css/main.602ead5f.css",
-    "static/js/main.c85e8230.js"
+    "static/css/main.c415febb.css",
+    "static/js/main.2a6d6dd3.js"
   ]
 }
