@@ -101,7 +101,7 @@ const skillsData = {
 const dataportfolio = [
 {
     img: groovehubremixed,
-    description: "Revamped music application that adds features including but not limited to: importing in playlists from spotify, community channel to share your playlists",
+    description: "Revamped music application with new features including playlist import and community tab",
     link: "https://groovehub-remixed-2f12da1632a2.herokuapp.com/",
     tags: ["React", "GraphQL/Apollo", "Spotify API", "Google Firebase", "MongoDB/Mongoose", "React-Foundation/Material UI"]
 },
