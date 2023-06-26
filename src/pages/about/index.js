@@ -20,10 +20,11 @@ export const About = () => {
         </Row>
         <Row className="sec_sp">
           <Col lg="5">
-            <h3 className="color_sec py-4">{dataabout.title}</h3>
+              <img src={dataabout.aboutimg} alt="About Me" className="about-image" />
           </Col>
           <Col lg="7" className="d-flex align-items-center">
             <div>
+            <h3 className="color_sec py-4">{dataabout.title}</h3>
               <p>{dataabout.aboutme}</p>
             </div>
           </Col>

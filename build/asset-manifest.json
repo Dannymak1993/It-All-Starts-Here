@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/It-All-Starts-Here/static/css/main.aa4d0bd9.css",
+    "main.js": "/It-All-Starts-Here/static/js/main.449e413f.js",
+    "static/media/Planned-Perfection.png": "/It-All-Starts-Here/static/media/Planned-Perfection.552d54488e5788cebcec.png",
+    "static/media/Danny2.png": "/It-All-Starts-Here/static/media/Danny2.4d9fd4d5f4b68c8924af.png",
+    "static/media/Groovehub-Remixed.png": "/It-All-Starts-Here/static/media/Groovehub-Remixed.d6e5e91b513b5d7c0d03.png",
+    "static/media/Groovehub.png": "/It-All-Starts-Here/static/media/Groovehub.43cab0c3f54f32e26923.png",
+    "static/media/Danny.png": "/It-All-Starts-Here/static/media/Danny.85fe4a599efb22ae4e32.png",
+    "static/media/Weather-App.png": "/It-All-Starts-Here/static/media/Weather-App.58682efa24051cc6b78d.png",
+    "static/media/css.png": "/It-All-Starts-Here/static/media/css.19c8605d6b2861f5fbe0.png",
+    "static/media/nodejs.png": "/It-All-Starts-Here/static/media/nodejs.bc4b43cd5f20ba305059.png",
+    "static/media/react.png": "/It-All-Starts-Here/static/media/react.c5b0245f707d5ac80cac.png",
+    "static/media/js.png": "/It-All-Starts-Here/static/media/js.266bd9fb2663dcc057b4.png",
+    "static/media/mysql.png": "/It-All-Starts-Here/static/media/mysql.17ec01314179e9a8ab58.png",
+    "index.html": "/It-All-Starts-Here/index.html",
+    "main.aa4d0bd9.css.map": "/It-All-Starts-Here/static/css/main.aa4d0bd9.css.map",
+    "main.449e413f.js.map": "/It-All-Starts-Here/static/js/main.449e413f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa4d0bd9.css",
+    "static/js/main.449e413f.js"
+  ]
+}

@@ -1,4 +1,5 @@
 import myImage from './images/about/Danny.png';
+import aboutImage from './images/about/Danny2.png';
 import jsIcon from './images/skills/js.png';
 import htmlIcon from './images/skills/html.png';
 import cssIcon from './images/skills/css.png';
@@ -22,9 +23,9 @@ const meta = {
 const introdata = {
     title: "My name is Danny Mak",
     animated: {
-        first: "Tech Nerd",
+        first: "Tech Enthusiast",
         second: "Rock Climber",
-        third: "Foodie"
+        third: "Foodie",
     },
     description: "I am a full stack developer based out of Dallas, Texas. I'm passionate about the bleeding edge of technology and incorporating them into my applications. I specialize in the MERN stack.",
     your_img_url: myImage,
@@ -33,6 +34,7 @@ const introdata = {
 const dataabout = {
     title: "Here's a bit more about me...",
     aboutme: "I'm Danny Mak, a former pre-medical student turned developer. I hold a bachelor of science degree in Biology from University of Texas at Dallas and a master's degree in Bioscience from Kansas City University, but my most recent passion has been in software development! I love learning how things work and using my imagination to develop and improve apps that I myself would use. In my free time, I enjoy traveling around the world and discovering new types of food. I also love the sport of rock climbing. Join me on my journey through the life of a software engineer.",
+    aboutimg: aboutImage,
 };
 
 const skillsData = {

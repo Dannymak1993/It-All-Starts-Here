@@ -208,6 +208,18 @@ section {
     }
 }
 
+@media (max-width: 900px) {
+    .intro_sec .h_bg-image {
+        background-size: 75% !important;
+    }
+}
+
+@media (max-width: 500px) {
+    .intro_sec .h_bg-image {
+        background-size: 90% !important;
+    }
+}
+
 .intro_sec .h_bg-image .block .wrap-icon {
     font-size: 40px;
     color: var(--text-color);
