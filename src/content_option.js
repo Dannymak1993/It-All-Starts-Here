@@ -13,7 +13,14 @@ import firebaseIcon from './images/skills/firebase.png';
 import groovehubremixed from './images/projects/Groovehub-Remixed.png';
 import groovehub from './images/projects/Groovehub.png';
 import plannedperf from './images/projects/Planned-Perfection.png';
+import techblog from './images/projects/Tech-Blog.png';
+import texteditor from './images/projects/Text-Editor.png';
+import expressnotes from './images/projects/Express-Notes.png';
 import weatherapp from './images/projects/Weather-App.png';
+import calendar from './images/projects/Calendar.png';
+import quiz from './images/projects/Quiz.png';
+import passwordgenerator from './images/projects/Password-Generator.png';
+
 
 const logotext = "Danny Mak";
 const meta = {
@@ -101,30 +108,66 @@ const skillsData = {
 
 
 const dataportfolio = [
-{
-    img: groovehubremixed,
-    description: "Revamped music application with new features including playlist import and community tab",
-    link: "https://groovehub-remixed-2f12da1632a2.herokuapp.com/",
-    tags: ["React", "GraphQL/Apollo", "Spotify API", "Google Firebase", "MongoDB/Mongoose", "React-Foundation/Material UI"]
-},
-{
-    img: groovehub,
-    description: "Music application allowing users to listen to music genres while chatting with others",
-    link: "https://groovehub-2023.herokuapp.com/",
-    tags: ["Handlebars", "JavaScript", "Google Firebase"]
-},
-{
-    img: plannedperf,
-    description: "Date planner application that allows the user to generate an itinerary using entered parameters",
-    link: "https://date-itinerary.herokuapp.com/",
-    tags: ["Javascript", "Foundation CSS", "APIs"]
-},
-{
-    img: weatherapp,
-    description: "Simple weather app to help research current and future weather forecasts for any location",
-    link: "https://dannymak1993.github.io/Whats-the-weather-like-in-BLANK/",
-    tags: ["Javascript", "CSS", "APIs"]
-},
+    {
+        img: groovehubremixed,
+        description: "Revamped music application with new features including playlist import and community tab",
+        link: "https://groovehub-remixed-2f12da1632a2.herokuapp.com/",
+        tags: ["React", "GraphQL/Apollo", "Spotify API", "Google Firebase", "MongoDB/Mongoose", "React-Foundation/Material UI"]
+    },
+    {
+        img: groovehub,
+        description: "Music application allowing users to listen to music genres while chatting with others",
+        link: "https://groovehub-2023.herokuapp.com/",
+        tags: ["Handlebars", "JavaScript", "Google Firebase"]
+    },
+    {
+        img: plannedperf,
+        description: "Date planner application that allows the user to generate an itinerary using entered parameters",
+        link: "https://date-itinerary.herokuapp.com/",
+        tags: ["Javascript", "Foundation CSS", "APIs"]
+    },
+    {
+        img: techblog,
+        description: "Basic tech blog that allows you to post/reply/comment",
+        link: "https://blog-but-techy.herokuapp.com/",
+        tags: ["Handlebars", "Bcrpyt", "MySQL", "Sequelize", "Express", "Javascript"]
+    },
+    {
+        img: texteditor,
+        description: "Text editor application with offline functionality",
+        link: "https://creative-text-editor-name.herokuapp.com/",
+        tags: ["Webpack", "Express", "Manifest", "Babel", "Javascript"]
+    },
+    {
+        img: expressnotes,
+        description: "General note taking application using express",
+        link: "https://lets-take-notes-with-express.herokuapp.com/",
+        tags: ["Node", "Express", "Javascript", "CSS"]
+    },
+    {
+        img: weatherapp,
+        description: "Simple weather app to help research current and future weather forecasts for any location",
+        link: "https://dannymak1993.github.io/Whats-the-weather-like-in-BLANK/",
+        tags: ["APIs", "Javascript", "CSS"]
+    },
+    {
+        img: calendar,
+        description: "Easy to use calendar app that allows you to manage day to day activities",
+        link: "https://dannymak1993.github.io/Organizing-Your-Life/",
+        tags: ["JQuery", "DayJS", "Javascript", "CSS"]
+    },
+    {
+        img: quiz,
+        description: "Fun rock climbing quiz",
+        link: "https://dannymak1993.github.io/How-Well-Do-You-Know-Rock-Climbing-/",
+        tags: ["Javascript", "CSS"]
+    },
+    {
+        img: passwordgenerator,
+        description: "Simple application that helps you generate a secure password",
+        link: "https://dannymak1993.github.io/Protect-Your-Things/",
+        tags: ["Javascript", "CSS"]
+    },
 ];
 
 const contactConfig = {
