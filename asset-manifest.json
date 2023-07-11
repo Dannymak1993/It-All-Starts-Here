@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0c3f13ba.css",
-    "main.js": "/static/js/main.39096283.js",
+    "main.js": "/static/js/main.fd67c05d.js",
     "static/media/Planned-Perfection.png": "/static/media/Planned-Perfection.552d54488e5788cebcec.png",
     "static/media/Danny2.png": "/static/media/Danny2.4d9fd4d5f4b68c8924af.png",
     "static/media/Groovehub-Remixed.png": "/static/media/Groovehub-Remixed.d6e5e91b513b5d7c0d03.png",
@@ -15,17 +15,17 @@
     "static/media/Express-Notes.png": "/static/media/Express-Notes.f38a18b824b0fcac817d.png",
     "static/media/Quiz.png": "/static/media/Quiz.d321a4879a7d70058927.png",
     "static/media/Text-Editor.png": "/static/media/Text-Editor.e309b639b5b2cd3c8bd6.png",
-    "static/media/Revised-Resume.pdf": "/static/media/Revised-Resume.c4a72699f2c4a5ed41f4.pdf",
+    "static/media/Revised-Resume.pdf": "/static/media/Revised-Resume.f307de41b80508c87a97.pdf",
     "static/media/nodejs.png": "/static/media/nodejs.bc4b43cd5f20ba305059.png",
     "static/media/react.png": "/static/media/react.c5b0245f707d5ac80cac.png",
     "static/media/js.png": "/static/media/js.266bd9fb2663dcc057b4.png",
     "static/media/mysql.png": "/static/media/mysql.17ec01314179e9a8ab58.png",
     "index.html": "/index.html",
     "main.0c3f13ba.css.map": "/static/css/main.0c3f13ba.css.map",
-    "main.39096283.js.map": "/static/js/main.39096283.js.map"
+    "main.fd67c05d.js.map": "/static/js/main.fd67c05d.js.map"
   },
   "entrypoints": [
     "static/css/main.0c3f13ba.css",
-    "static/js/main.39096283.js"
+    "static/js/main.fd67c05d.js"
   ]
 }
