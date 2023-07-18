@@ -110,62 +110,72 @@ const skillsData = {
 const dataportfolio = [
     {
         img: groovehubremixed,
-        description: "Revamped music application with new features including playlist import and community tab",
+        description: "Revamped music application with new features including playlist import and community tab components",
         link: "https://groovehub-remixed-2f12da1632a2.herokuapp.com/",
-        tags: ["React", "GraphQL/Apollo", "Spotify API", "Google Firebase", "MongoDB/Mongoose", "React-Foundation/Material UI"]
+        githubLink: "https://github.com/Dannymak1993/Groovehub-Remixed",
+        tags: ["React", "GraphQL/Apollo", "Spotify API", "Google Firebase", "MongoDB/Mongoose"]
     },
     {
         img: groovehub,
         description: "Music application allowing users to listen to music genres while chatting with others",
         link: "https://groovehub-2023.herokuapp.com/",
-        tags: ["Handlebars", "JavaScript", "Google Firebase"]
+        githubLink: "https://github.com/Dannymak1993/Groovehub",
+        tags: ["Handlebars", "Express", "MySQL/Sequelize", "Google Firebase", "Foundation CSS"]
     },
     {
         img: plannedperf,
         description: "Date planner application that allows the user to generate an itinerary using entered parameters",
         link: "https://date-itinerary.herokuapp.com/",
+        githubLink: "https://github.com/willrcline/date-itinerary",
         tags: ["Javascript", "Foundation CSS", "APIs"]
     },
     {
         img: techblog,
         description: "Basic tech blog that allows you to post/reply/comment",
         link: "https://blog-but-techy.herokuapp.com/",
+        githubLink: "https://github.com/Dannymak1993/Blog-But-Techy",
         tags: ["Handlebars", "Bcrpyt", "MySQL", "Sequelize", "Express", "Javascript"]
     },
     {
         img: texteditor,
         description: "Text editor application with offline functionality",
         link: "https://creative-text-editor-name.herokuapp.com/",
+        githubLink: "https://github.com/Dannymak1993/Creative-Text-Editor-Name",
         tags: ["Webpack", "Express", "Manifest", "Babel", "Javascript"]
     },
     {
         img: expressnotes,
         description: "General note taking application using express",
         link: "https://lets-take-notes-with-express.herokuapp.com/",
+        githubLink: "https://github.com/Dannymak1993/Lets-Take-Notes-with-Express",
         tags: ["Node", "Express", "Javascript", "CSS"]
     },
     {
         img: weatherapp,
         description: "Simple weather app to help research current and future weather forecasts for any location",
         link: "https://dannymak1993.github.io/Whats-the-weather-like-in-BLANK/",
+        githubLink: "https://github.com/Dannymak1993/Whats-the-weather-like-in-BLANK",
         tags: ["APIs", "Javascript", "CSS"]
     },
     {
         img: calendar,
         description: "Easy to use calendar app that allows you to manage day to day activities",
         link: "https://dannymak1993.github.io/Organizing-Your-Life/",
+        githubLink: "https://github.com/Dannymak1993/Organizing-Your-Life",
         tags: ["JQuery", "DayJS", "Javascript", "CSS"]
     },
     {
         img: quiz,
         description: "Fun rock climbing quiz",
         link: "https://dannymak1993.github.io/How-Well-Do-You-Know-Rock-Climbing-/",
+        githubLink: "https://github.com/Dannymak1993/How-Well-Do-You-Know-Rock-Climbing-",
         tags: ["Javascript", "CSS"]
     },
     {
         img: passwordgenerator,
         description: "Simple application that helps you generate a secure password",
         link: "https://dannymak1993.github.io/Protect-Your-Things/",
+        githubLink: "https://github.com/Dannymak1993/Protect-Your-Things",
         tags: ["Javascript", "CSS"]
     },
 ];

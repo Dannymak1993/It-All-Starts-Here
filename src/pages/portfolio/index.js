@@ -5,7 +5,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import { dataportfolio, meta } from "../../content_option";
 
 export const Portfolio = () => {
-  
   return (
     <HelmetProvider>
       <Container className="About-header">
@@ -27,14 +26,29 @@ export const Portfolio = () => {
                 <img src={data.img} alt="" />
                 <div className="content">
                   <p>{data.description}</p>
-                  <a
-                    href={data.link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >view project</a>
+                  <div className="button-group">
+                    <a
+                      href={data.link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="view-project"
+                    >
+                      View Project
+                    </a>
+                    <a
+                      href={data.githubLink}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="github-repo"
+                    >
+                      View Repository
+                    </a>
+                  </div>
                   <div className="tags">
                     {data.tags.map((tag, j) => (
-                      <span key={j} className="tag">{tag}</span>
+                      <span key={j} className="tag">
+                        {tag}
+                      </span>
                     ))}
                   </div>
                 </div>
