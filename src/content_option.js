@@ -20,6 +20,8 @@ import weatherapp from './images/projects/Weather-App.png';
 import calendar from './images/projects/Calendar.png';
 import quiz from './images/projects/Quiz.png';
 import passwordgenerator from './images/projects/Password-Generator.png';
+import calculator from './images/projects/Calculator.png';
+import moviemania from './images/projects/Movie-Mania.png';
 
 
 const logotext = "Danny Mak";
@@ -125,6 +127,20 @@ const dataportfolio = [
     {
         img: plannedperf,
         description: "Date planner application that allows the user to generate an itinerary using entered parameters",
+        link: "https://date-itinerary.herokuapp.com/",
+        githubLink: "https://github.com/willrcline/date-itinerary",
+        tags: ["Javascript", "Foundation CSS", "APIs"]
+    },
+    {
+        img: moviemania,
+        description: "Simple movie searching application",
+        link: "https://dannymak1993.github.io/Movie-Mania/",
+        githubLink: "https://github.com/Dannymak1993/Movie-Mania",
+        tags: ["Javascript", "Foundation CSS", "APIs"]
+    },
+    {
+        img: calculator,
+        description: "A calculator",
         link: "https://date-itinerary.herokuapp.com/",
         githubLink: "https://github.com/willrcline/date-itinerary",
         tags: ["Javascript", "Foundation CSS", "APIs"]
