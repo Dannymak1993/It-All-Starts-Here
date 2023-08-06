@@ -136,14 +136,14 @@ const dataportfolio = [
         description: "Simple movie searching application",
         link: "https://dannymak1993.github.io/Movie-Mania/",
         githubLink: "https://github.com/Dannymak1993/Movie-Mania",
-        tags: ["Javascript", "Foundation CSS", "APIs"]
+        tags: ["React", "Javascript", "CSS", "APIs"]
     },
     {
         img: calculator,
         description: "A calculator",
-        link: "https://date-itinerary.herokuapp.com/",
-        githubLink: "https://github.com/willrcline/date-itinerary",
-        tags: ["Javascript", "Foundation CSS", "APIs"]
+        link: "https://dannymak1993.github.io/Calculator/",
+        githubLink: "https://github.com/Dannymak1993/Calculator",
+        tags: ["React", "Javascript", "CSS"]
     },
     {
         img: techblog,
