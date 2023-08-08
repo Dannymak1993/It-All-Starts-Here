@@ -140,7 +140,7 @@ const dataportfolio = [
     },
     {
         img: calculator,
-        description: "A calculator",
+        description: "A simple calculator app",
         link: "https://dannymak1993.github.io/Calculator/",
         githubLink: "https://github.com/Dannymak1993/Calculator",
         tags: ["React", "Javascript", "CSS"]
