@@ -148,10 +148,10 @@ const dataportfolio = [
     },
     {
         img: todolist,
-        description: "A simple calculator app",
-        link: "https://dannymak1993.github.io/Calculator/",
-        githubLink: "https://github.com/Dannymak1993/Calculator",
-        tags: ["React", "Javascript", "CSS"]
+        description: "A to do list application",
+        link: "https://dannymak1993.github.io/To-Do-List/",
+        githubLink: "https://github.com/Dannymak1993/To-Do-List",
+        tags: ["React", "JSX", "CSS"]
     },
     {
         img: techblog,
