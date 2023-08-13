@@ -22,6 +22,7 @@ import quiz from './images/projects/Quiz.png';
 import passwordgenerator from './images/projects/Password-Generator.png';
 import calculator from './images/projects/Calculator.png';
 import moviemania from './images/projects/Movie-Mania.png';
+import todolist from './images/projects/To-Do-List.png';
 
 
 const logotext = "Danny Mak";
