@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.03da6ee2.css",
-    "main.js": "/static/js/main.7af3482c.js",
+    "main.js": "/static/js/main.d2851233.js",
     "static/media/Planned-Perfection.png": "/static/media/Planned-Perfection.552d54488e5788cebcec.png",
     "static/media/Movie-Mania.png": "/static/media/Movie-Mania.745583e8c80501b2817d.png",
     "static/media/Danny2.png": "/static/media/Danny2.4d9fd4d5f4b68c8924af.png",
@@ -17,6 +17,7 @@
     "static/media/Express-Notes.png": "/static/media/Express-Notes.f38a18b824b0fcac817d.png",
     "static/media/Quiz.png": "/static/media/Quiz.d321a4879a7d70058927.png",
     "static/media/Text-Editor.png": "/static/media/Text-Editor.e309b639b5b2cd3c8bd6.png",
+    "static/media/To-Do-List.png": "/static/media/To-Do-List.6066c447eaab2859aa6c.png",
     "static/media/Revised-Resume.pdf": "/static/media/Revised-Resume.f307de41b80508c87a97.pdf",
     "static/media/nodejs.png": "/static/media/nodejs.bc4b43cd5f20ba305059.png",
     "static/media/react.png": "/static/media/react.c5b0245f707d5ac80cac.png",
@@ -24,10 +25,10 @@
     "static/media/mysql.png": "/static/media/mysql.17ec01314179e9a8ab58.png",
     "index.html": "/index.html",
     "main.03da6ee2.css.map": "/static/css/main.03da6ee2.css.map",
-    "main.7af3482c.js.map": "/static/js/main.7af3482c.js.map"
+    "main.d2851233.js.map": "/static/js/main.d2851233.js.map"
   },
   "entrypoints": [
     "static/css/main.03da6ee2.css",
-    "static/js/main.7af3482c.js"
+    "static/js/main.d2851233.js"
   ]
 }

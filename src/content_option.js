@@ -36,6 +36,7 @@ const introdata = {
         first: "Tech Enthusiast",
         second: "Rock Climber",
         third: "Foodie",
+        fourth: "Adventure Seeker",
     },
     description: "I am a full stack developer based out of Dallas, Texas. I'm passionate about the bleeding edge of technology and incorporating them into my applications. I specialize in the MERN stack.",
     your_img_url: myImage,
