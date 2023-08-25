@@ -135,6 +135,13 @@ const dataportfolio = [
         tags: ["Javascript", "Foundation CSS", "APIs"]
     },
     {
+        img: travelnow,
+        description: "Travel application to plan out your destinations",
+        link: "https://dannymak1993.github.io/Travel-Now/",
+        githubLink: "https://github.com/Dannymak1993/Travel-Now",
+        tags: ["React", "Javascript", "JSX", "CSS"]
+    },
+    {
         img: moviemania,
         description: "Simple movie searching application",
         link: "https://dannymak1993.github.io/Movie-Mania/",
