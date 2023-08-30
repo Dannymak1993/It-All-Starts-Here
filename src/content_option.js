@@ -24,6 +24,7 @@ import calculator from './images/projects/Calculator.png';
 import moviemania from './images/projects/Movie-Mania.png';
 import todolist from './images/projects/To-Do-List.png';
 import travelnow from './images/projects/Travel-Now.png';
+import contactlist from './images/projects/Contact-List.png';
 
 
 const logotext = "Danny Mak";
@@ -147,6 +148,13 @@ const dataportfolio = [
         link: "https://dannymak1993.github.io/Movie-Mania/",
         githubLink: "https://github.com/Dannymak1993/Movie-Mania",
         tags: ["React", "Javascript", "CSS", "APIs"]
+    },
+    {
+        img: contactlist,
+        description: "An application that functions as an address book for your contacts",
+        link: "https://dannymak1993.github.io/Contact-List/",
+        githubLink: "https://github.com/Dannymak1993/Contact-List",
+        tags: ["React", "JSX", "CSS"]
     },
     {
         img: calculator,
