@@ -138,10 +138,10 @@ const dataportfolio = [
     },
     {
         img: mytube,
-        description: "An application that functions as an address book for your contacts",
-        link: "https://dannymak1993.github.io/Contact-List/",
-        githubLink: "https://github.com/Dannymak1993/Contact-List",
-        tags: ["React", "JSX", "CSS"]
+        description: "Youtube clone built in React",
+        link: "https://dannymak1993.github.io/MyTube/",
+        githubLink: "https://github.com/Dannymak1993/MyTube",
+        tags: ["React", "JSX", "Material CSS", "Rapid API"]
     },
     {
         img: travelnow,
