@@ -25,6 +25,7 @@ import moviemania from './images/projects/Movie-Mania.png';
 import todolist from './images/projects/To-Do-List.png';
 import travelnow from './images/projects/Travel-Now.png';
 import contactlist from './images/projects/Contact-List.png';
+import mytube from './images/projects/MyTube.png';
 
 
 const logotext = "Danny Mak";
@@ -134,6 +135,13 @@ const dataportfolio = [
         link: "https://date-itinerary.herokuapp.com/",
         githubLink: "https://github.com/willrcline/date-itinerary",
         tags: ["Javascript", "Foundation CSS", "APIs"]
+    },
+    {
+        img: mytube,
+        description: "An application that functions as an address book for your contacts",
+        link: "https://dannymak1993.github.io/Contact-List/",
+        githubLink: "https://github.com/Dannymak1993/Contact-List",
+        tags: ["React", "JSX", "CSS"]
     },
     {
         img: travelnow,
