@@ -123,13 +123,6 @@ const dataportfolio = [
         tags: ["React", "GraphQL/Apollo", "Spotify API", "Google Firebase", "MongoDB/Mongoose"]
     },
     {
-        img: groovehub,
-        description: "Music application allowing users to listen to music genres while chatting with others",
-        link: "https://groovehub-2023.herokuapp.com/",
-        githubLink: "https://github.com/Dannymak1993/Groovehub",
-        tags: ["Handlebars", "Express", "MySQL/Sequelize", "Google Firebase", "Foundation CSS"]
-    },
-    {
         img: plannedperf,
         description: "Date planner application that allows the user to generate an itinerary using entered parameters",
         link: "https://date-itinerary.herokuapp.com/",
