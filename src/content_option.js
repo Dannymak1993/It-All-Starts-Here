@@ -158,13 +158,6 @@ const dataportfolio = [
         tags: ["React", "Javascript", "CSS", "APIs"]
     },
     {
-        img: contactlist,
-        description: "An application that functions as an address book for your contacts",
-        link: "https://dannymak1993.github.io/Contact-List/",
-        githubLink: "https://github.com/Dannymak1993/Contact-List",
-        tags: ["React", "JSX", "CSS"]
-    },
-    {
         img: calculator,
         description: "A simple calculator app",
         link: "https://dannymak1993.github.io/Calculator/",
