@@ -193,13 +193,6 @@ const dataportfolio = [
         tags: ["Webpack", "Express", "Manifest", "Babel", "Javascript"]
     },
     {
-        img: expressnotes,
-        description: "General note taking application using express",
-        link: "https://lets-take-notes-with-express.herokuapp.com/",
-        githubLink: "https://github.com/Dannymak1993/Lets-Take-Notes-with-Express",
-        tags: ["Node", "Express", "Javascript", "CSS"]
-    },
-    {
         img: calendar,
         description: "Easy to use calendar app that allows you to manage day to day activities",
         link: "https://dannymak1993.github.io/Organizing-Your-Life/",
