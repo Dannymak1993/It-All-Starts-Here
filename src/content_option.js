@@ -220,13 +220,6 @@ const dataportfolio = [
         githubLink: "https://github.com/Dannymak1993/How-Well-Do-You-Know-Rock-Climbing-",
         tags: ["Javascript", "CSS"]
     },
-    {
-        img: passwordgenerator,
-        description: "Simple application that helps you generate a secure password",
-        link: "https://dannymak1993.github.io/Protect-Your-Things/",
-        githubLink: "https://github.com/Dannymak1993/Protect-Your-Things",
-        tags: ["Javascript", "CSS"]
-    },
 ];
 
 const contactConfig = {
