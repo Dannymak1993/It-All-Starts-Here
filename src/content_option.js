@@ -213,13 +213,6 @@ const dataportfolio = [
         githubLink: "https://github.com/Dannymak1993/Organizing-Your-Life",
         tags: ["JQuery", "DayJS", "Javascript", "CSS"]
     },
-    {
-        img: quiz,
-        description: "Fun rock climbing quiz",
-        link: "https://dannymak1993.github.io/How-Well-Do-You-Know-Rock-Climbing-/",
-        githubLink: "https://github.com/Dannymak1993/How-Well-Do-You-Know-Rock-Climbing-",
-        tags: ["Javascript", "CSS"]
-    },
 ];
 
 const contactConfig = {
