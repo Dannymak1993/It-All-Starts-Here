@@ -200,13 +200,6 @@ const dataportfolio = [
         tags: ["Node", "Express", "Javascript", "CSS"]
     },
     {
-        img: weatherapp,
-        description: "Simple weather app to help research current and future weather forecasts for any location",
-        link: "https://dannymak1993.github.io/Whats-the-weather-like-in-BLANK/",
-        githubLink: "https://github.com/Dannymak1993/Whats-the-weather-like-in-BLANK",
-        tags: ["APIs", "Javascript", "CSS"]
-    },
-    {
         img: calendar,
         description: "Easy to use calendar app that allows you to manage day to day activities",
         link: "https://dannymak1993.github.io/Organizing-Your-Life/",
