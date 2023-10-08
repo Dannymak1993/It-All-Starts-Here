@@ -123,6 +123,13 @@ const dataportfolio = [
         tags: ["React", "GraphQL/Apollo", "Spotify API", "Google Firebase", "MongoDB/Mongoose"]
     },
     {
+        img: groovehub,
+        description: "Music application allowing users to listen to music genres while chatting with others",
+        link: "https://groovehub-2023.herokuapp.com/",
+        githubLink: "https://github.com/Dannymak1993/Groovehub",
+        tags: ["Handlebars", "Express", "MySQL/Sequelize", "Google Firebase", "Foundation CSS"]
+    },
+    {
         img: plannedperf,
         description: "Date planner application that allows the user to generate an itinerary using entered parameters",
         link: "https://date-itinerary.herokuapp.com/",
@@ -149,13 +156,6 @@ const dataportfolio = [
         link: "https://dannymak1993.github.io/Movie-Mania/",
         githubLink: "https://github.com/Dannymak1993/Movie-Mania",
         tags: ["React", "Javascript", "CSS", "APIs"]
-    },
-    {
-        img: techblog,
-        description: "Basic tech blog that allows you to post/reply/comment",
-        link: "https://blog-but-techy.herokuapp.com/",
-        githubLink: "https://github.com/Dannymak1993/Blog-But-Techy",
-        tags: ["Handlebars", "Bcrpyt", "MySQL", "Sequelize", "Express", "Javascript"]
     },
     {
         img: texteditor,
