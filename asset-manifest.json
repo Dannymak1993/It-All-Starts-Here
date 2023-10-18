@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.03da6ee2.css",
-    "main.js": "/static/js/main.babb4361.js",
+    "main.js": "/static/js/main.cc465d75.js",
     "static/media/Travel-Now.png": "/static/media/Travel-Now.228ab9bef32a868240d1.png",
     "static/media/Planned-Perfection.png": "/static/media/Planned-Perfection.552d54488e5788cebcec.png",
     "static/media/Movie-Mania.png": "/static/media/Movie-Mania.745583e8c80501b2817d.png",
     "static/media/MyTube.png": "/static/media/MyTube.db00a7d5a052ccb23003.png",
+    "static/media/Musicify.png": "/static/media/Musicify.42e7aaa84e1c28670f59.png",
     "static/media/Danny2.png": "/static/media/Danny2.4d9fd4d5f4b68c8924af.png",
     "static/media/Groovehub-Remixed.png": "/static/media/Groovehub-Remixed.d6e5e91b513b5d7c0d03.png",
     "static/media/Groovehub.png": "/static/media/Groovehub.43cab0c3f54f32e26923.png",
@@ -28,10 +29,10 @@
     "static/media/mysql.png": "/static/media/mysql.17ec01314179e9a8ab58.png",
     "index.html": "/index.html",
     "main.03da6ee2.css.map": "/static/css/main.03da6ee2.css.map",
-    "main.babb4361.js.map": "/static/js/main.babb4361.js.map"
+    "main.cc465d75.js.map": "/static/js/main.cc465d75.js.map"
   },
   "entrypoints": [
     "static/css/main.03da6ee2.css",
-    "static/js/main.babb4361.js"
+    "static/js/main.cc465d75.js"
   ]
 }
