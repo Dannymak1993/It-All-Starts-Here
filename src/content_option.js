@@ -26,6 +26,7 @@ import todolist from './images/projects/To-Do-List.png';
 import travelnow from './images/projects/Travel-Now.png';
 import contactlist from './images/projects/Contact-List.png';
 import mytube from './images/projects/MyTube.png';
+import musicify from './images/projects/Musicify.png';
 
 
 const logotext = "Danny Mak";
@@ -123,6 +124,13 @@ const dataportfolio = [
         tags: ["React", "GraphQL/Apollo", "Spotify API", "Google Firebase", "MongoDB/Mongoose"]
     },
     {
+        img: musicify,
+        description: "spotify esque music application that allows users to upload their own music and browse music libraries",
+        link: "https://musicify-175f0766b215.herokuapp.com/",
+        githubLink: "https://github.com/Dannymak1993/Musicify-v2",
+        tags: ["Next.js", "React.js", "Supabase/PostgreSQL", "Stripe", "Tailwind CSS"]
+    },
+    {
         img: groovehub,
         description: "Music application allowing users to listen to music genres while chatting with others",
         link: "https://groovehub-2023.herokuapp.com/",
@@ -130,18 +138,18 @@ const dataportfolio = [
         tags: ["Handlebars", "Express", "MySQL/Sequelize", "Google Firebase", "Foundation CSS"]
     },
     {
-        img: plannedperf,
-        description: "Date planner application that allows the user to generate an itinerary using entered parameters",
-        link: "https://date-itinerary.herokuapp.com/",
-        githubLink: "https://github.com/willrcline/date-itinerary",
-        tags: ["Javascript", "Foundation CSS", "APIs"]
-    },
-    {
         img: mytube,
         description: "Youtube clone built in React",
         link: "https://dannymak1993.github.io/MyTube/",
         githubLink: "https://github.com/Dannymak1993/MyTube",
         tags: ["React", "JSX", "Material CSS", "Rapid API"]
+    },
+    {
+        img: plannedperf,
+        description: "Date planner application that allows the user to generate an itinerary using entered parameters",
+        link: "https://date-itinerary.herokuapp.com/",
+        githubLink: "https://github.com/willrcline/date-itinerary",
+        tags: ["Javascript", "Foundation CSS", "APIs"]
     },
     {
         img: travelnow,
