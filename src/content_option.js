@@ -2,12 +2,16 @@ import myImage from './images/about/Danny.png';
 import aboutImage from './images/about/Danny2.png';
 import jsIcon from './images/skills/js.png';
 import htmlIcon from './images/skills/html.png';
+import springIcon from './images/skills/spring.png';
+import javaIcon from './images/skills/java.png';
 import cssIcon from './images/skills/css.png';
 import mongoDBIcon from './images/skills/mongo-db.png';
 import graphQLIcon from './images/skills/graphQL.png';
+import visualstudiocodeIcon from './images/skills/visualstudiocode.png';
 import mySQLIcon from './images/skills/mysql.png';
 import reactIcon from './images/skills/react.png';
 import nodejsIcon from './images/skills/nodejs.png';
+import intelliJIcon from './images/skills/IntelliJ.png';
 import gitIcon from './images/skills/git.png';
 import firebaseIcon from './images/skills/firebase.png';
 import groovehubremixed from './images/projects/Groovehub-Remixed.png';
@@ -64,6 +68,14 @@ const skillsData = {
                     title: "JavaScript",
                 },
                 {
+                    icon: javaIcon,
+                    title: "Java",
+                },
+                {
+                    icon: springIcon,
+                    title: "Spring Boot",
+                },
+                {
                     icon: htmlIcon,
                     title: "HTML 5",
                 },
@@ -82,7 +94,7 @@ const skillsData = {
                 {
                     icon: mySQLIcon,
                     title: "MySQL",
-                },
+                }
             ],
         },
         {
@@ -108,6 +120,19 @@ const skillsData = {
                 {
                     icon: firebaseIcon,
                     title: "Firebase",
+                },
+            ],
+        },
+        {
+            title: "Editors",
+            items: [
+                {
+                    icon: visualstudiocodeIcon,
+                    title: "Visual Studio Code",
+                },
+                {
+                    icon: intelliJIcon,
+                    title: "IntelliJ IDEA",
                 },
             ],
         },

@@ -87,6 +87,10 @@
     padding-bottom: 4px;
 }
 
+.container.Skills-header {
+    padding-bottom: 1px;
+    /* Adjust the value as per your preference */
+}
 
 /*! CSS Used keyframes */
 
