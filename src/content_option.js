@@ -15,20 +15,9 @@ import intelliJIcon from './images/skills/IntelliJ.png';
 import gitIcon from './images/skills/git.png';
 import firebaseIcon from './images/skills/firebase.png';
 import groovehubremixed from './images/projects/Groovehub-Remixed.png';
-import groovehub from './images/projects/Groovehub.png';
 import plannedperf from './images/projects/Planned-Perfection.png';
-import techblog from './images/projects/Tech-Blog.png';
-import texteditor from './images/projects/Text-Editor.png';
-import expressnotes from './images/projects/Express-Notes.png';
-import weatherapp from './images/projects/Weather-App.png';
-import calendar from './images/projects/Calendar.png';
-import quiz from './images/projects/Quiz.png';
-import passwordgenerator from './images/projects/Password-Generator.png';
-import calculator from './images/projects/Calculator.png';
 import moviemania from './images/projects/Movie-Mania.png';
-import todolist from './images/projects/To-Do-List.png';
 import travelnow from './images/projects/Travel-Now.png';
-import contactlist from './images/projects/Contact-List.png';
 import mytube from './images/projects/MyTube.png';
 import musicify from './images/projects/Musicify.png';
 
@@ -156,13 +145,6 @@ const dataportfolio = [
         tags: ["Next.js", "React.js", "Supabase/PostgreSQL", "Stripe", "Tailwind CSS"]
     },
     {
-        img: groovehub,
-        description: "Music application allowing users to listen to music genres while chatting with others",
-        link: "https://groovehub-2023.herokuapp.com/",
-        githubLink: "https://github.com/Dannymak1993/Groovehub",
-        tags: ["Handlebars", "Express", "MySQL/Sequelize", "Google Firebase", "Foundation CSS"]
-    },
-    {
         img: mytube,
         description: "Youtube clone built in React",
         link: "https://dannymak1993.github.io/MyTube/",
@@ -189,20 +171,6 @@ const dataportfolio = [
         link: "https://dannymak1993.github.io/Movie-Mania/",
         githubLink: "https://github.com/Dannymak1993/Movie-Mania",
         tags: ["React", "Javascript", "CSS", "APIs"]
-    },
-    {
-        img: texteditor,
-        description: "Text editor application with offline functionality",
-        link: "https://creative-text-editor-name.herokuapp.com/",
-        githubLink: "https://github.com/Dannymak1993/Creative-Text-Editor-Name",
-        tags: ["Webpack", "Express", "Manifest", "Babel", "Javascript"]
-    },
-    {
-        img: calendar,
-        description: "Easy to use calendar app that allows you to manage day to day activities",
-        link: "https://dannymak1993.github.io/Organizing-Your-Life/",
-        githubLink: "https://github.com/Dannymak1993/Organizing-Your-Life",
-        tags: ["JQuery", "DayJS", "Javascript", "CSS"]
     },
 ];
 
