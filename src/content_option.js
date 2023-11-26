@@ -20,6 +20,7 @@ import moviemania from './images/projects/Movie-Mania.png';
 import travelnow from './images/projects/Travel-Now.png';
 import mytube from './images/projects/MyTube.png';
 import musicify from './images/projects/Musicify.png';
+import javaweatherapp from './images/projects/Java-Weather-App.png';
 
 
 const logotext = "Danny Mak";
@@ -159,11 +160,10 @@ const dataportfolio = [
         tags: ["Javascript", "Foundation CSS", "APIs"]
     },
     {
-        img: plannedperf,
-        description: "Date planner application that allows the user to generate an itinerary using entered parameters",
-        link: "https://date-itinerary.herokuapp.com/",
-        githubLink: "https://github.com/willrcline/date-itinerary",
-        tags: ["Javascript", "Foundation CSS", "APIs"]
+        img: javaweatherapp,
+        description: "Simple weather application built in Java",
+        githubLink: "https://github.com/Dannymak1993/Weathering",
+        tags: ["Java"]
     },
     {
         img: travelnow,
