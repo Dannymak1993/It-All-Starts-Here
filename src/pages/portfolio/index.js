@@ -27,14 +27,16 @@ export const Portfolio = () => {
                 <div className="content">
                   <p>{data.description}</p>
                   <div className="button-group">
-                    <a
-                      href={data.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="view-project"
-                    >
-                      View Project
-                    </a>
+                    {data.link && (
+                      <a
+                        href={data.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="view-project"
+                      >
+                        View Project
+                      </a>
+                    )}
                     <a
                       href={data.githubLink}
                       target="_blank"

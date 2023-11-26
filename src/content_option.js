@@ -160,12 +160,6 @@ const dataportfolio = [
         tags: ["Javascript", "Foundation CSS", "APIs"]
     },
     {
-        img: javaweatherapp,
-        description: "Simple weather application built in Java",
-        githubLink: "https://github.com/Dannymak1993/Weathering",
-        tags: ["Java"]
-    },
-    {
         img: travelnow,
         description: "Travel application to plan out your destinations",
         link: "https://dannymak1993.github.io/Travel-Now/",
@@ -178,6 +172,12 @@ const dataportfolio = [
         link: "https://dannymak1993.github.io/Movie-Mania/",
         githubLink: "https://github.com/Dannymak1993/Movie-Mania",
         tags: ["React", "Javascript", "CSS", "APIs"]
+    },
+    {
+        img: javaweatherapp,
+        description: "Simple weather application built in Java",
+        githubLink: "https://github.com/Dannymak1993/Weathering",
+        tags: ["Java"]
     },
 ];
 
