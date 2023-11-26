@@ -159,6 +159,13 @@ const dataportfolio = [
         tags: ["Javascript", "Foundation CSS", "APIs"]
     },
     {
+        img: plannedperf,
+        description: "Date planner application that allows the user to generate an itinerary using entered parameters",
+        link: "https://date-itinerary.herokuapp.com/",
+        githubLink: "https://github.com/willrcline/date-itinerary",
+        tags: ["Javascript", "Foundation CSS", "APIs"]
+    },
+    {
         img: travelnow,
         description: "Travel application to plan out your destinations",
         link: "https://dannymak1993.github.io/Travel-Now/",

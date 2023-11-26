@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.21fedb07.css",
-    "main.js": "/static/js/main.e3b1639b.js",
+    "main.js": "/static/js/main.9da6e35b.js",
     "static/media/Travel-Now.png": "/static/media/Travel-Now.228ab9bef32a868240d1.png",
     "static/media/Planned-Perfection.png": "/static/media/Planned-Perfection.552d54488e5788cebcec.png",
     "static/media/Movie-Mania.png": "/static/media/Movie-Mania.745583e8c80501b2817d.png",
@@ -9,19 +9,8 @@
     "static/media/Musicify.png": "/static/media/Musicify.42e7aaa84e1c28670f59.png",
     "static/media/Danny2.png": "/static/media/Danny2.4d9fd4d5f4b68c8924af.png",
     "static/media/Groovehub-Remixed.png": "/static/media/Groovehub-Remixed.d6e5e91b513b5d7c0d03.png",
-    "static/media/Groovehub.png": "/static/media/Groovehub.43cab0c3f54f32e26923.png",
     "static/media/Danny.png": "/static/media/Danny.85fe4a599efb22ae4e32.png",
-    "static/media/Calculator.png": "/static/media/Calculator.45e4cd6b2690b907490c.png",
-    "static/media/Calendar.png": "/static/media/Calendar.15c545bba8089fcad081.png",
-    "static/media/Weather-App.png": "/static/media/Weather-App.58682efa24051cc6b78d.png",
     "static/media/css.png": "/static/media/css.19c8605d6b2861f5fbe0.png",
-    "static/media/Contact-List.png": "/static/media/Contact-List.dc5938f27f1d71101530.png",
-    "static/media/Password-Generator.png": "/static/media/Password-Generator.06bdc227649948b26628.png",
-    "static/media/Tech-Blog.png": "/static/media/Tech-Blog.58af23d9e7982f9947b3.png",
-    "static/media/Express-Notes.png": "/static/media/Express-Notes.f38a18b824b0fcac817d.png",
-    "static/media/Quiz.png": "/static/media/Quiz.d321a4879a7d70058927.png",
-    "static/media/Text-Editor.png": "/static/media/Text-Editor.e309b639b5b2cd3c8bd6.png",
-    "static/media/To-Do-List.png": "/static/media/To-Do-List.6066c447eaab2859aa6c.png",
     "static/media/Revised-Resume.pdf": "/static/media/Revised-Resume.1e0467753836a30448b9.pdf",
     "static/media/IntelliJ.png": "/static/media/IntelliJ.ae97ec83badc278e4c02.png",
     "static/media/nodejs.png": "/static/media/nodejs.bc4b43cd5f20ba305059.png",
@@ -30,10 +19,10 @@
     "static/media/mysql.png": "/static/media/mysql.17ec01314179e9a8ab58.png",
     "index.html": "/index.html",
     "main.21fedb07.css.map": "/static/css/main.21fedb07.css.map",
-    "main.e3b1639b.js.map": "/static/js/main.e3b1639b.js.map"
+    "main.9da6e35b.js.map": "/static/js/main.9da6e35b.js.map"
   },
   "entrypoints": [
     "static/css/main.21fedb07.css",
-    "static/js/main.e3b1639b.js"
+    "static/js/main.9da6e35b.js"
   ]
 }
