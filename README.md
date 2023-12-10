@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my personal portfolio repository. It is built entirely using React front end.  
+This is my personal portfolio repository. It is built entirely using React.  
 
 ## Table of Contents
 
