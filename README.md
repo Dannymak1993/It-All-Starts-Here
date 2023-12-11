@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my personal portfolio repository. It is built entirely using React.  
+This is my personal website repository. It is built entirely using React.  
 
 ## Table of Contents
 
