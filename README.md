@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my personal website repository. It is built entirely using React.  
+This is my personal website repository. It is built entirely using React. Actual website content may differ from images below as I update it frequently.
 
 ## Table of Contents
 
