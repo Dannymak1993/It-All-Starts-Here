@@ -13,7 +13,7 @@ This is my personal website repository. It is built entirely using React. Actual
 
 ## Installation
 
-Navigate to the link below to browse my portfolio!
+Navigate to the link below to browse my personal website!
 
 [Live App](https://dannymak.org/)
 
