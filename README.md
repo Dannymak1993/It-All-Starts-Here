@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my personal portfolio repository. It is built entirely using React front end.  
+This is my personal website repository. It is built entirely using React. Actual website content may differ from images below, as I update it frequently.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This is my personal portfolio repository. It is built entirely using React front
 
 ## Installation
 
-A user just needs to navigate to the link below to browse this portfolio!
+Navigate to the link below to browse my personal website!
 
 [Live App](https://dannymak.org/)
 
