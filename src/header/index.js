@@ -4,7 +4,7 @@ import { VscGrabber, VscClose } from "react-icons/vsc";
 import { Link } from "react-router-dom";
 import { logotext ,socialprofils } from "../content_option";
 import Themetoggle from "../components/themetoggle";
-import resumePDF from '../assets/Revised-Resume.pdf';
+import resumePDF from '../assets/Danny-Mak-Resume-2024.pdf';
 
 const Headermain = () => {
   const [isActive, setActive] = useState("false");
