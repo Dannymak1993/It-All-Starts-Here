@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.21fedb07.css",
-    "main.js": "/static/js/main.4a11930e.js",
+    "main.js": "/static/js/main.0a82f280.js",
     "static/media/Travel-Now.png": "/static/media/Travel-Now.228ab9bef32a868240d1.png",
     "static/media/Planned-Perfection.png": "/static/media/Planned-Perfection.552d54488e5788cebcec.png",
     "static/media/Movie-Mania.png": "/static/media/Movie-Mania.745583e8c80501b2817d.png",
@@ -12,7 +12,7 @@
     "static/media/Danny.png": "/static/media/Danny.85fe4a599efb22ae4e32.png",
     "static/media/css.png": "/static/media/css.19c8605d6b2861f5fbe0.png",
     "static/media/Java-Weather-App.png": "/static/media/Java-Weather-App.db0aec52da3605981f98.png",
-    "static/media/Danny-Mak-Resume-2024.pdf": "/static/media/Danny-Mak-Resume-2024.aab649c5239444b5b059.pdf",
+    "static/media/Danny-Mak-Resume-2024.pdf": "/static/media/Danny-Mak-Resume-2024.0ba6d12ef76c24c0f340.pdf",
     "static/media/IntelliJ.png": "/static/media/IntelliJ.ae97ec83badc278e4c02.png",
     "static/media/nodejs.png": "/static/media/nodejs.bc4b43cd5f20ba305059.png",
     "static/media/react.png": "/static/media/react.c5b0245f707d5ac80cac.png",
@@ -20,10 +20,10 @@
     "static/media/mysql.png": "/static/media/mysql.17ec01314179e9a8ab58.png",
     "index.html": "/index.html",
     "main.21fedb07.css.map": "/static/css/main.21fedb07.css.map",
-    "main.4a11930e.js.map": "/static/js/main.4a11930e.js.map"
+    "main.0a82f280.js.map": "/static/js/main.0a82f280.js.map"
   },
   "entrypoints": [
     "static/css/main.21fedb07.css",
-    "static/js/main.4a11930e.js"
+    "static/js/main.0a82f280.js"
   ]
 }
