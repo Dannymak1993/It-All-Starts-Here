@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.21fedb07.css",
-    "main.js": "/static/js/main.ed26f72e.js",
+    "main.js": "/static/js/main.528626ed.js",
     "static/media/Travel-Now.png": "/static/media/Travel-Now.228ab9bef32a868240d1.png",
+    "static/media/Danny.png": "/static/media/Danny.04d289518146123fe503.png",
     "static/media/Planned-Perfection.png": "/static/media/Planned-Perfection.552d54488e5788cebcec.png",
     "static/media/Movie-Mania.png": "/static/media/Movie-Mania.745583e8c80501b2817d.png",
     "static/media/MyTube.png": "/static/media/MyTube.db00a7d5a052ccb23003.png",
     "static/media/Musicify.png": "/static/media/Musicify.42e7aaa84e1c28670f59.png",
     "static/media/Danny2.png": "/static/media/Danny2.4d9fd4d5f4b68c8924af.png",
     "static/media/Groovehub-Remixed.png": "/static/media/Groovehub-Remixed.d6e5e91b513b5d7c0d03.png",
-    "static/media/Danny.png": "/static/media/Danny.85fe4a599efb22ae4e32.png",
     "static/media/css.png": "/static/media/css.19c8605d6b2861f5fbe0.png",
     "static/media/Java-Weather-App.png": "/static/media/Java-Weather-App.db0aec52da3605981f98.png",
     "static/media/Danny-Mak-Resume-2024.pdf": "/static/media/Danny-Mak-Resume-2024.c6297c5edc7011fa07e3.pdf",
@@ -20,10 +20,10 @@
     "static/media/mysql.png": "/static/media/mysql.17ec01314179e9a8ab58.png",
     "index.html": "/index.html",
     "main.21fedb07.css.map": "/static/css/main.21fedb07.css.map",
-    "main.ed26f72e.js.map": "/static/js/main.ed26f72e.js.map"
+    "main.528626ed.js.map": "/static/js/main.528626ed.js.map"
   },
   "entrypoints": [
     "static/css/main.21fedb07.css",
-    "static/js/main.ed26f72e.js"
+    "static/js/main.528626ed.js"
   ]
 }
