@@ -3,6 +3,12 @@ import aboutImage from './images/about/Danny2.png';
 import jsIcon from './images/skills/js.png';
 import htmlIcon from './images/skills/html.png';
 import springIcon from './images/skills/spring.png';
+import expressIcon from './images/skills/express.png';
+import jqueryIcon from './images/skills/jquery.png';
+import angularIcon from './images/skills/angular.png';
+import bootstrapIcon from './images/skills/bootstrap.png';
+import flaskIcon from './images/skills/flask.png';
+import pythonIcon from './images/skills/python.png';
 import javaIcon from './images/skills/java.png';
 import cssIcon from './images/skills/css.png';
 import mongoDBIcon from './images/skills/mongo-db.png';
@@ -62,8 +68,8 @@ const skillsData = {
                     title: "Java",
                 },
                 {
-                    icon: springIcon,
-                    title: "Spring Boot",
+                    icon: pythonIcon,
+                    title: "Python",
                 },
                 {
                     icon: htmlIcon,
@@ -97,6 +103,30 @@ const skillsData = {
                 {
                     icon: nodejsIcon,
                     title: "Nodejs",
+                },
+                {
+                    icon: springIcon,
+                    title: "Spring Boot",
+                },
+                {
+                    icon: expressIcon,
+                    title: "Express",
+                },
+                {
+                    icon: jqueryIcon,
+                    title: "JQuery",
+                },
+                {
+                    icon: angularIcon,
+                    title: "Angular",
+                },
+                {
+                    icon: bootstrapIcon,
+                    title: "Bootstrap",
+                },
+                {
+                    icon: flaskIcon,
+                    title: "Flask",
                 },
             ],
         },
